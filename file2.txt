@@ -1,2 +1,4 @@
-i
+
+file created
+file file file file
 this is file2
